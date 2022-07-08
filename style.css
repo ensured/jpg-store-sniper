@@ -1,0 +1,19 @@
+.range {
+  width: 220px;
+  height: 15px;
+  -webkit-appearance: none;
+  background: green;
+  border-radius: 15px;
+  overflow: hidden;
+  border: 2px solid black;
+}
+.range[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 15px;
+  height: 15px;
+  color: black;
+  border-radius: 15px;
+  background: purple;
+  cursor: pointer;
+  border: 5.8px solid black;
+}

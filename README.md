@@ -1,4 +1,5 @@
-![jpg.store sniper](https://i.imgur.com/906i1Kr.gif)
+
+Video ↓ ![jpg.store sniper](https://i.imgur.com/906i1Kr.gif)
 ## What/How
 ## jpg.store sniper allows you to adjust a range slider to however many seconds you want jpg.store to reload the listings so you can snipe more efficiently!
 

@@ -1,4 +1,4 @@
-![jpg.store sniper](https://i.imgur.com/F7hybvO.png)
+![jpg.store sniper](https://i.imgur.com/906i1Kr.gif)
 ## What/How
 ## jpg.store sniper allows you to adjust a range slider to however many seconds you want jpg.store to reload the listings so you can snipe more efficiently!
 
@@ -8,4 +8,4 @@
 4. Click load unpacked and open the folder in any Chromium based browser with web extension support.
 5. Done! Load up jpg.store/marketplace and refresh and boom! The ui should show up for you to customize to your liking.
 
-# ~Enjoy :D
+# ~Enjoy :D (there is a video up top if you click it, it will show what it does)
